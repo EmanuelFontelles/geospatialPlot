@@ -1,4 +1,3 @@
-***
 <img src="./images/mapb.gif" width="300" height="100" >
 
 ***
