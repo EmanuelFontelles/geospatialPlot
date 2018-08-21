@@ -34,9 +34,10 @@ Each library does a particular set of things well.
 - [Geospatial Data Analysis, Geojsonio and Geopandas](geomaps_03.ipynb)
 - [Geopandas from documentation](geopandas.ipynb)
 - [Creating a GeoDataFrame from a DataFrame](create_geopandas_from_pandas.ipynb)
-- [KDE Algorithm](./kde/kdeMethod1.ipynb)
-- [KDE Seaborn](./kde/kdeMethod2.ipynb)
-- [KDE Scikit-Learn](./kde/kdeMethod3.ipynb)
+- Kernel Density Estimation
+  - [KDE Algorithm](./kde/kdeMethod1.ipynb)
+  - [KDE Seaborn](./kde/kdeMethod2.ipynb)
+  - [KDE Scikit-Learn](./kde/kdeMethod3.ipynb)
 
 ## Usage
 
