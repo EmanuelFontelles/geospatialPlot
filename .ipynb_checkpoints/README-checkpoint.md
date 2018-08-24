@@ -6,9 +6,6 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/EmanuelFontelles/geospacial-plot.git/master)
 
-[binder_lab]: https://mybinder.org/v2/gh/EmanuelFontelles/geospacial-plot.git/master
-
-
 > This repo is developed by [Emanuel Fontelles](https://github.com/emanuelfontelles).
 >
 > Some notebooks to understand how to use Plot.ly and geopandas
@@ -110,4 +107,4 @@ This is a personal repository that is not meant for public use at this time. It 
 [conda]: https://conda.io
 [conda-forge]: https://conda-forge.org
 [Binder]: https://mybinder.org/
-[binder_lab]: https://mybinder.org/v2/gh/EmanuelFontelles/machineLearning.git/master?urlpath=lab/tree/Index.ipynb
+[binder_lab]: https://mybinder.org/v2/gh/EmanuelFontelles/geospacial-plot.git/master?urlpath=lab/
