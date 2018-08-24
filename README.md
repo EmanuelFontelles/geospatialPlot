@@ -4,7 +4,7 @@
 
 # geospacial-plot
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/EmanuelFontelles/geospacial-plot.git/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/EmanuelFontelles/geospacial-plot.git/master?urlpath=lab/)
 
 > This repo is developed by [Emanuel Fontelles](https://github.com/emanuelfontelles).
 >
@@ -43,7 +43,7 @@ browser without installing anything or you can setup a [local instalation](#loca
 
 > [Binder] lets you easily host interactive Jupyter notebooks and let anyone on the internet use them interactively immediately! Binder creates executable environment making your code immediately reproducible by anyone, anywhere.
 
-You can [visualize the notebooks](http://nbviewer.jupyter.org/github/emanuelfontelles/machineLearning/blob/master/Index.ipynb) without running any kernel.
+You can [visualize the notebooks](http://nbviewer.jupyter.org/github/emanuelfontelles/geospatialPlot/blob/master/Index.ipynb) without running any kernel.
 
 [](#local-instalation)
 ### Local Instalation
