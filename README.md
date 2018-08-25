@@ -11,17 +11,16 @@
 > Some notebooks to understand how to use Plot.ly and geopandas
 
 ## Project philosophy
+This project aim to demonstrate you some Python visualizitions tools, some libraries 
+as Plotly and Geopandas are enphasyses because of its facilities
 
 Many excellent plotting libraries exist in Python, including the main ones:
 
 * [Matplotlib](http://matplotlib.org/)
 * [Bokeh](http://bokeh.pydata.org/en/latest/)
 * [Seaborn](http://stanford.edu/~mwaskom/software/seaborn/#)
-* [Lightning](http://lightning-viz.org/)
 * [Plotly](https://plot.ly/)
 * [Pandas built-in plotting](http://pandas.pydata.org/pandas-docs/stable/visualization.html)
-
-Each library does a particular set of things well.
 
 ## Table of Contents
 <!--NAVIGATION-->
