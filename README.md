@@ -23,7 +23,6 @@ Many excellent plotting libraries exist in Python, including the main ones:
 * [Pandas built-in plotting](http://pandas.pydata.org/pandas-docs/stable/visualization.html)
 
 ## Table of Contents
-<!--NAVIGATION-->
 - [Starting with Plot.ly](geomaps_01.ipynb)
 - [Choropleth Graphs](geomaps_01.ipynb)
 - [Create choropleth from csv e pandas](geomaps_02.ipynb)
